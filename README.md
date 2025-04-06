@@ -46,14 +46,6 @@ User Input --> Preprocessing --> ToxicBERT Model --> Output Prediction
 - Google Colab
 
 ---
-🔮 Future Development
-
-- 🌐 Multilingual toxic content detection  
-- 🎙️ Voice-to-text abuse detection  
-- 📊 Admin dashboard for real-time analytics  
-- 👥 Crowd feedback & false-positive reporting system  
-
----
 
  📸 Screenshots
 
